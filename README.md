@@ -8,8 +8,14 @@ Once this data is parsed, you can leveraeg PowerBI to analysze it. Here are the 
 
 
 Parse Using https://www.parsehub.com/
+The website I webscrapped looks like this.
+![image](https://user-images.githubusercontent.com/40730777/157191078-916ec1ed-aec5-4163-8012-d4b8d95c7057.png)
 
-PowerBI files are uploaded. 
 
 Data is also upload in JSON format.
+![image](https://user-images.githubusercontent.com/40730777/157191180-1564cf7c-5c6f-43b7-b64b-dc8c456cbd10.png)
+
+
+
+PowerBI files are uploaded. 
 ![image](https://user-images.githubusercontent.com/40730777/157190770-0f4062bf-bd26-40e6-9756-65fc67b07d41.png)
