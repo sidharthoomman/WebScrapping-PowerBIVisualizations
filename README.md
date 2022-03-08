@@ -6,3 +6,9 @@ Webscrapping is powerful to getting real time data off non-conventinal data sour
 I used a tool called ParseHub. It is intutitive to use and has a good tutorial. 
 Once this data is parsed, you can leveraeg PowerBI to analysze it. Here are the files I made on the same.
 
+
+Parse Using https://www.parsehub.com/
+
+PowerBI files are uploaded. 
+
+Data is also upload in JSON format.
