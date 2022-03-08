@@ -12,3 +12,4 @@ Parse Using https://www.parsehub.com/
 PowerBI files are uploaded. 
 
 Data is also upload in JSON format.
+![image](https://user-images.githubusercontent.com/40730777/157190770-0f4062bf-bd26-40e6-9756-65fc67b07d41.png)
